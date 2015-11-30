@@ -1,1 +1,2 @@
 # hgproject
+print('hello,world!')
